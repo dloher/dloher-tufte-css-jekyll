@@ -5,7 +5,9 @@ weight: 1
 ---
 
 {%marginfigure 'profile' 'assets/img/profile.png' 'As a social anthropologist, I am an expert in "deep hanging out" [(Geertz 1998)](https://www.nybooks.com/articles/1998/10/22/deep-hanging-out/). Curious to know more about the world, I consider iterative research designs as a productive way to leave space for the unexpected.
-<br>Others call it the principle of serendipity.' %}
+<br>Others call it the principle of serendipity.
+<br>
+<br>Geertz, Clifford. 1998. "Deep Hanging Out." *The New York Review of Books,* 22 October 1998.' %}
 
 {%newthought 'David Loher is a social anthropologist' %} working at the intersections between legal anthropology, environmental anthropology, and the anthropology of the state.
 
