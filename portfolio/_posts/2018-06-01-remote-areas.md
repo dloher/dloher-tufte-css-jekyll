@@ -1,6 +1,6 @@
 ---
-title: "Transformation of Remote Rural Areas in the Alps"
-excerpt: "The photographic long-term project with the working title "Transformation of Remote Rural Areas in the Alps" documents the retreat of the human presence from remote rural areas in the Alps ..."
+title: 'Transformation of Remote Rural Areas in the Alps'
+excerpt: 'The photographic long-term project with the working title "Transformation of Remote Rural Areas in the Alps" documents the retreat of the human presence from remote rural areas in the Alps ...'
 date: 2018-06-01
 category: portfolio
 layout: post
