@@ -6,7 +6,7 @@ category: portfolio
 layout: post
 ---
 
-Europe’s borders and border control practices have undergone profound change in recent years.
+Europe’s borders and border control practices have undergone a profound change in recent years.
 {%marginfigure 'return' 'assets/img/return.png' 'Assisted voluntary return is a contradiction in terms, as it ignores the characteristics of the return migration bureaucracy as a structure of violence (Graeber 2012), based on the permanent threat of deportation (De Genova 2010).
 <br>
 <br>--De Genova, Nicholas. 2010. "The Deportation Regime. Sovereignty, Space, and the Freedom of Movement." In *The Deportation Regime. Sovereignty, Space, and the Freedom of Movement,* edited by Nicholas De Genova and Nathalie Peutz, 33–65. Durham, London: Duke University Press.

@@ -5,7 +5,9 @@ subtitle: Teaching Experience
 weight: 2
 ---
 
-*This section documents my teaching over the past years. It includes course abstracts and some additional material.*
+*I have years of experience in teaching at higher education institutions – in universities and universities of applied sciences. In addition to my practical teaching experience, I completed a CAS in Higher Education.*
+
+*In this section you find a list of courses I gave in the last years. Course abstracts are in English or German, depending on the working language of the corresponding courses.*
 
 ## Einführung in die Sozialanthropologie
 ### Fall Term 2020<br>Lecture at the University of Fribourg
