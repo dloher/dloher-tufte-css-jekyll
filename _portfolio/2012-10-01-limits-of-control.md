@@ -4,7 +4,7 @@ excerpt: "The PhD project took Switzerland's programmme of so-called assisted vo
 date: 2012-10-01
 collection: portfolio
 permalink: /portfolio/2012-10-01-limits-of-control
-layout: page
+layout: portfolio_page
 ---
 
 Europe’s borders and border control practices have undergone a profound change in recent years.
