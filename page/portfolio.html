@@ -8,13 +8,8 @@ weight: 6
 
 {% include base_path %}
 
-<!--  <h1 class="content-listing-header sans">Projects – Current and Past</h1>
-  <ul class="content-listing "> -->
-    {% for post in site.portfolio %}
-        <li class="listing">
-          <hr class="slender">
-          <a href="{{ post.url | prepend: site.baseurl }}"><h2 class="larger">{{ post.title }}</h2></a>
-          <br><div>{{ post.excerpt }}</div><br/>
-        </li>
-    {% endfor %}
-  </ul>
+{% for post in site.portfolio %}
+  <hr class="slender">
+  <h2>{{ portfolio.title}}</h2>
+  <p>{{ portfolio.content}}</p>
+{% endfor %}
