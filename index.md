@@ -13,4 +13,4 @@ weight: 1
 
 David Loher received his PhD from the University of Bern in 2016 with a research on so-called assisted voluntary return migration, tracing the transnational migration trajectories of Tunisian migrants between Tunisia and Switzerland. In his current research, David Loher is working on the legacy of the asbestos industry in Northern Italy. In addition to his expertise in ethnographic research methods and mixed methods research designs, he have extensive teaching experience at universities and universities of applied sciences, and a background as an elementary school teacher.
 
-{%newthought 'Contact' %} David Loher by [email](mailto:david.loher@posteo.org) or [twitter](https://www.twitter.com/dloher){:target="_blank"}
+{%newthought 'Contact David Loher' %} by [email](mailto:david.loher@posteo.org) or [twitter](https://www.twitter.com/dloher){:target="_blank"}
