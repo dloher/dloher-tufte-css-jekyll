@@ -1,9 +1,10 @@
 ---
 title: "Transformation of Remote Rural Areas in the Alps"
-excerpt: "The photographic long-term project documents the retreat of the human presence from remote rural areas in the Alps ..."
+excerpt: "The photographic long-term project documents the retreat of the human presence from remote rural areas in the Alps It studies the human/ non-human relationship in a landscape shaped by human labour  for centuries ..."
 date: 2018-06-01
-category: portfolio
-layout: post
+collection: portfolio
+permalink: /portfolio/2018-06-01-remote-areas
+layout: portfolio_page
 ---
 This photographic long-term project documents the retreat of human presence from remote rural areas in the Alps. It studies the human/ non-human relationship in a landscape shaped by human labour  for centuries. With a particular focus on the remains of non-agricultural activities, the project examines through image and text how various industries – and not only agriculture – have transformed these remote areas.
 

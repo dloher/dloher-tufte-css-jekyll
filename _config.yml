@@ -22,3 +22,8 @@ page:
   extension: md
 git:
   branch: src
+# Collections
+collections:
+  portfolio:
+    output: true
+  permalik: /:collection/:path
