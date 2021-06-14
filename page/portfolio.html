@@ -10,7 +10,7 @@ weight: 6
   <li class="listing">
     <hr class="slender">
     <a href="{{ post.url | prepend: site.baseurl }}"><h2 class="larger">{{ post.title }}</h2></a>
-    <br><span {{ post.date | date: "%d %B %Y" }}</span>  <br/>
+    <br> <span class="smaller"{{ post.date | date: "%d %B %Y" }}</span>  <br/>
     <p>{{ post.excerpt }}</p>
   </li>
 {% endfor %}
