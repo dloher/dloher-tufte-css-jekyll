@@ -6,7 +6,7 @@ permalink: /portfolio/
 weight: 6
 ---
 
-{% for post in site.portfolio %}
+{% for post in site.portfolio reversed %}
   <li class="listing">
     <hr class="slender">
     <a href="{{ post.url | prepend: site.baseurl }}"><h2 class="larger">{{ post.title }}</h2></a>
