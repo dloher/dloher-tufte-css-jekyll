@@ -2,8 +2,9 @@
 title: "The Limits of Control. Transnational Migration Trajectories of Clandestine Tunisian Migrants and Assisted Return Between Governed Voluntariness and Repression"
 excerpt: "The PhD project took Switzerland's programmme of so-called assisted voluntary return migration (AVR) for Tunisian migrants as a case study to examine the contradictions of the modern liberal nation state that emerge in the governance of transnational mobility ..."
 date: 2012-10-01
-category: portfolio
-layout: post
+collection: portfolio
+permalink: /portfolio/2012-10-01-limits-of-control
+layout: page
 ---
 
 Europe’s borders and border control practices have undergone a profound change in recent years.

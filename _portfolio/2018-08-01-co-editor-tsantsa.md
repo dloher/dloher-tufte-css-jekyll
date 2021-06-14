@@ -2,8 +2,9 @@
 title: "TSANTSA: Reorganisation and Digitalisation of the Editorial Process"
 date: 2018-08-01
 excerpt: "Since 2018, I am the co-editor of TSANTSA – Journal of the Swiss Anthropological Association SAA. Together with my two co-editors, I was responsible for the reorganisation and digitalisation of the editorial process ..."
-category: portfolio
-layout: post
+collection: portfolio
+permalink: /portfolio/2018-08-01-co-editor-tsantsa
+layout: page
 ---
 
 Since 2018 {%marginfigure 'mf-tsantsa_25' 'assets/img/tsantsa_25.png' 'With the digital relaunch in 2020, we redesigned the print edition of TSANTSA in collaboration with our publisher Seismo Press. Since then, it has been published in a more compact format' %}, I am the co-editor of [TSANTSA](https://www.bop.unibe.ch/tsantsa) – Journal of the Swiss Anthropological Association SAA. Together with my two co-editors, I was responsible for the reorganisation of the whole editorial process. Major achievements of this reorganisation are the digitalisation of the whole editorial process, and the implementation of a rigid peer-review process for all journal sections, as well as an improved visibility of the digital edition of the journal.
