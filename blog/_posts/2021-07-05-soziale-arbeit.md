@@ -42,7 +42,7 @@ Die vertikale Achse weist in diesem Modell die Analyseebenen des sozialen Raums 
 ## Fallbeispiel: «I, Daniel Blake»
 Der Film «I, Daniel Blake»{% marginnote 'mn-blake' '[Für mehr Informationen zum Film, vgl. etwa Girish Shambus ausführliche Filmkritik auf Criterion.](https://www.criterion.com/current/posts/5277-i-daniel-blake-an-authentic-cinema)' %} von Ken Loach zeigt, wie soziale Arbeit scheitert, wenn die begrenzenden Einflussfaktoren überhand nehmen und damit jegliches methodisches Handeln verunmöglichen.
 
-{% newthought 'Daniel Blake' %}, ein 59-jähriger Zimmermann, ist die Hauptfigur des Films. Er hat kürzlich einen Herzinfakrt erlitten und kann nicht mehr auf seinem erlernten Beruf arbeiten. Angewiesen auf eine Überbrückungshilfe, fällt er zwischen Stuhl und Bank von Arbeitslosenunterstützung und Invalidenversicherung, weil er auf ärztliche Verordnung hin nicht arbeiten darf, gleichzeitig zu gesund ist, um Invalidenversicherungsleistungen beziehen zu können.
+{% newthought 'Daniel Blake' %}, ein 59-jähriger Zimmermann, ist die Hauptfigur des Films. Er hat kürzlich einen Herzinfarkt erlitten und kann nicht mehr auf seinem erlernten Beruf arbeiten. Angewiesen auf eine Überbrückungshilfe, fällt er zwischen Stuhl und Bank von Arbeitslosenunterstützung und Invalidenversicherung, weil er auf ärztliche Verordnung hin nicht arbeiten darf, gleichzeitig zu gesund ist, um Invalidenversicherungsleistungen beziehen zu können.
 
 {% newthought 'Ken Loach' %} zeigt im Film, wie Soziale Arbeit scheitert, wenn sie durch die gesetzlichen und institutionellen Rahmenbedingungen reduziert wird auf das korrekte Ausfüllen von Formularen und das strikte Befolgen von "wenn-dann Bedingungen" ohne Interpretationsspielraum.
 
