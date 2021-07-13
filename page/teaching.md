@@ -5,9 +5,9 @@ subtitle: Teaching Experience
 weight: 2
 ---
 
-*I have years of experience in teaching at higher education institutions – in universities and universities of applied sciences. In addition to my practical teaching experience, I completed a CAS in Higher Education.*
+{% newthought 'I have years' %} of experience in teaching at higher education institutions – in universities and universities of applied sciences. In addition to my teaching experience in higher education, I have a background as a primary school teacher and completed a CAS in Higher Education. Due to the anthropologist's trained eye for social interactions and the awareness of the productive power of serendipity, I strive for educational settings that feature a high degree of face-to-face interaction and emphasise collaborative forms of learning, problem-solving, and discussion. I encourage my students to think beyond the course and to continue weaving their web of knowledge.
 
-*In this section you find a list of courses I gave in the last years. Course abstracts are in English or German, depending on the working language of the corresponding courses.*
+{% newthought 'In this section,' %} you find a list of courses I gave in the last years. Course abstracts are in English or German, depending on the working language of the class.
 
 ## Einführung in die Sozialanthropologie
 ### Fall Term 2020<br>Lecture at the University of Fribourg
