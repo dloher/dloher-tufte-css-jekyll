@@ -2,7 +2,7 @@
 layout: page
 title: CV
 subtitle: David Loher PhD, Social Anthropologist
-weight: 4
+weight: 5
 ---
 
 ## Education
