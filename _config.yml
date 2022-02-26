@@ -2,7 +2,7 @@
 baseurl:
 title: David Loher PhD
 # Whether the header (with large title and subtitle) should be displayed
-header: false
+header: true
 subtitle: Social Anthropologist
 author: David Loher
 email: david.loher [at] posteo [dot] org
