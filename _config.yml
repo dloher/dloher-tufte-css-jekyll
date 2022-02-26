@@ -30,7 +30,7 @@ git:
 collections:
   portfolio:
     output: true
-#  permalik: /:collection/:path
+    permalink: /:collection/:path
 #Plugins
 plugins:
   - jekyll-seo-tag
