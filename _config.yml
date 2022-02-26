@@ -1,6 +1,6 @@
 # Note: If you want to deploy to a GitHub user site (user.github.io), change baseurl to /
 baseurl: https://dloher.ch
-last_modified_at: 2022-02-26T09:12:35+01:00
+last_modified_at: 2022-02-26
 title: David Loher PhD
 # Whether the header (with large title and subtitle) should be displayed
 header: true
