@@ -3,12 +3,12 @@ layout: post
 title: "Lernen, ein kollektives Abenteuer"
 subtitle: "Anmerkungen zur gesellschaftlichen Dimension des Lernens und Lehrens"
 excerpt: "Die Hochschuldidaktik fokussiert oft einseitig auf individuelle Lernprozesse. Dabei geht nur zu schnell die gesellschaftliche Dimension vergessen. Bildungsinstitutionen sind jedoch nicht nur (individuelle) Lernorte..."
-date: 2021-02-15
+date: 2022-02-15
 category: posts
+language: de-CH
 ---
 
-*Dieser Text wurde erstmals veröffentlicht auf dem Blog des [ZLLF](www.hslu.ch/zllf) der [HSLU](www.hslu.ch): [https://blog.hslu.ch/blog/archives/8028](https://blog.hslu.ch/blog/archives/8028)*
-
+{%marginnote 'reference' '_Dieser Text wurde erstmals veröffentlicht am 07. Dezember 2021 auf dem Blog des [ZLLF](www.hslu.ch/zllf) der [HSLU](www.hslu.ch): <https://blog.hslu.ch/blog/archives/8028>_'%}
 Wie findet Lernen statt? Welche Faktoren fördern und unterstützen effektives Lernen? Wie lassen sich Lernprozesse individualisierter gestalten und damit besser auf die Bedürfnisse aller Lerner:innen abstimmen? Dies sind nur einige der fundamentalen Fragen der Hochschuldidaktik. Dabei steht meist die einzelne Lerner:in im Zentrum der Aufmerksamkeit. Insbesondere die Lernpsychologie liefert durch ihre empirische Forschung zum Lernen differenzierte Antworten auf diese Fragen.
 
 {% newthought 'Es gibt' %} jedoch noch eine weitere Dimension von Lernen die in dieser Fokussierung auf die individuelle Lerner:in und ihre Bedürfnisse und Ressourcen hier und da etwas in Vergessenheit zu geraten droht: die gesellschaftliche Dimension von Lernen. (Akademisch sozialisiert als Sozialanthropologe treibt mich vor allem dieser zweite Aspekt um.) Auch wenn die Arbeiten des Didaktikers Wolfgang Klafki immer wieder und zurecht als für den Lehralltag zu abstrakt kritisiert wurden, scheint mir doch ein Gedanke von ihm fundamental und von ungebrochener Aktualität zu sein: Bildungsfragen sind stets Gesellschaftsfragen. Die Art und Weise, wie wir Gesellschaft denken, so denken wir auch Lernen und Lehren. In der heutigen hochindividualisierten Gesellschaft ist es deshalb nicht weiter erstaunlich, dass auch Lernen in erster Linie als individuelles Unterfangen gedacht wird.
@@ -24,16 +24,18 @@ Wie findet Lernen statt? Welche Faktoren fördern und unterstützen effektives L
 ## Communities of Practice
 
 Die US-amerikanische Kulturanthropologin Jean Lave stellte einmal fest, dass die sozialwissenschaftliche Perspektive auf Lehren und Lernen zwar das Lehren durchaus in den Blick der Forschung nimmt, den Aspekt des Lernens jedoch oft übersieht und einseitig der Psychologie überantwortet. In ihrer langjährigen ethnografischen Forschung über Schneiderlehrlinge in Liberia  hat sie Lernen als sozialen Prozess zu verstehen versucht (vgl. Lave 1982; 2011)
-{% marginfigure 'lave1' 'Lave, Jean. 1982. «A Comparative Approach to Educational Forms and Learning Processes». *Anthropology & Education Quarterly* 13 (2): 181–87. [https://doi.org/10/cgtq9r](https://doi.org/10/cgtq9r).
+{% marginnote 'lave1' 'Lave, Jean. 1982. «A Comparative Approach to Educational Forms and Learning Processes». _Anthropology & Education Quarterly_ 13 (2): 181–87.
 <br>
-———. 2011. *Apprenticeship in Critical Ethnographic Practice. The Lewis Henry Morgan Lectures 1993.* Chicago: University of Chicago Press.'%}.
+---. 2011. _Apprenticeship in Critical Ethnographic Practice. The Lewis Henry Morgan Lectures 1993._ Chicago: University of Chicago Press.' %}.
 Dabei hat sie zwei wesentliche Erkenntnisse festgehalten, die für die Hochschuldidaktik als Denkanstösse dienen können: Sie kritisiert erstens die weitverbreitete Dichotomie zwischen formalem, an Bildungsinstitutionen stattfindendem Lernen und dem informellen Lernen jenseits von Bildungseinrichtungen. Am Beispiel des Erlernens des Schneiderhandwerks in Liberia konnte sie zeigen, dass es in Liberia – wenig erstaunlich – weder formalisierte Curricula noch Berufsschulen oder ähnliches gibt, die Ausbildung zum Schneider (sie waren ausschliesslich männlich) – und das wiederum ist bemerkenswert – dennoch ausgesprochen strukturiert und systematisch abläuft. Faktoren für diese Strukturierung sind einerseits im Sozialen zu suchen, andererseits sind sie materiell bedingt. Sie argumentiert, dass es beim Lernen nie nur um den blossen individuelle Kompetenzerwerb geht, sondern dass Lernen ebenso sehr eine Sozialisierung in eine Berufsgruppe hinein bedeutet. Und in dieser Hinsicht unterscheidet sich die Ausbildung der Schneider in Liberia nicht von der Ausbildung der Architekt:innen an der HSLU.
 
 {% newthought 'Ausgehend' %} von diesen Überlegungen hat Lave zusammen mit Étienne Wenger das Konzept der Communities of Practice entwickelt. Étienne Wenger, ursprünglich Computerwissenschaftler aus Neuchâtel, hat bei Lave promoviert mit einer ethnografischen Arbeit zu einem Schadenbearbeitungszentrums in einer grossen Versicherungsfirma. Im Verständnis von Lave und Wenger bezeichnet Communities of Practice «an ongoing learning partnership, which over time has resulted in a shared practice and a regime of competence» (Wenger und Wenger-Trayner 2020, 31). Es geht also darum, dass sich über gemeinsames Lernen und gemeinsame Praxis kollektives Wissen formt und verfestigt.
 
 ## Social Learning Spaces
 
-Später ist Étienne Wenger noch einen Schritt weiter gegangen und hat kollektives bzw. soziales Lernen weiter ausdifferenziert. Dem Begriff der Communities of Practice zur Seite gestellt, erlaubt das Konzept der Social Learning Spaces die Unterscheidung von zwei verschiedenen Formen von kollektivem Lernen. Social Learning Spaces unterscheiden sich von Communities of Practices darin, dass eine Gruppe von Lerner:innen erstens gemeinsam etwas Bewegen und Verändern will – «[…] make a difference they care to make» (Wenger und Wenger-Trayner 2020, 15). Zweitens ist für Social Learning Spaces charakteristisch, dass sich die Teilnehmer:innen gemeinsam in unbekanntes Terrain vorwagen – «Participants engage with each other at the leading edge of their knowing to make that difference» (Wenger und Wenger-Trayner 2020, 15). Schliesslich zeichnen sich Social Learning Spaces durch ihr forschend-iteratives Vorgehen und eine fragende Grundhaltung aus – «[…] participants pay close attention to wathever response comes back» (Wenger und Wenger-Trayner 2020, 15).
+Später ist Étienne Wenger noch einen Schritt weiter gegangen und hat kollektives bzw. soziales Lernen weiter ausdifferenziert. Dem Begriff der Communities of Practice zur Seite gestellt, erlaubt das Konzept der Social Learning Spaces die Unterscheidung von zwei verschiedenen Formen von kollektivem Lernen. Social Learning Spaces unterscheiden sich von Communities of Practices darin, dass eine Gruppe von Lerner:innen erstens gemeinsam etwas Bewegen und Verändern will – «[…] make a difference they care to make» (Wenger und Wenger-Trayner 2020, 15).
+{% marginnote 'wenger1' 'Wenger, Étienne, und Beverly Wenger-Trayner. 2020. _Learning to Make a Difference: Value Creation in Social Learning Spaces._ 1. Aufl. Cambridge University Press. h<ttps://doi.org/10.1017/9781108677431>.' %}
+ Zweitens ist für Social Learning Spaces charakteristisch, dass sich die Teilnehmer:innen gemeinsam in unbekanntes Terrain vorwagen – «Participants engage with each other at the leading edge of their knowing to make that difference» (Wenger und Wenger-Trayner 2020, 15). Schliesslich zeichnen sich Social Learning Spaces durch ihr forschend-iteratives Vorgehen und eine fragende Grundhaltung aus – «[…] participants pay close attention to wathever response comes back» (Wenger und Wenger-Trayner 2020, 15).
 
 ## Gemeinsam Lernen um einen Unterschied zu machen
 
@@ -45,8 +47,8 @@ Kurz: Während bei Communities of Practice die – meist professionelle – Sozi
 
 ## Bibliografie
 
-Lave, Jean. 1982. «A Comparative Approach to Educational Forms and Learning Processes». *Anthropology & Education Quarterly* 13 (2): 181–87. [https://doi.org/10/cgtq9r](https://doi.org/10/cgtq9r).
+Lave, Jean. 1982. «A Comparative Approach to Educational Forms and Learning Processes». _Anthropology & Education Quarterly_ 13 (2): 181–87. <https://doi.org/10/cgtq9r>.
 
-———. 2011. *Apprenticeship in Critical Ethnographic Practice. The Lewis Henry Morgan Lectures 1993.* Chicago: University of Chicago Press.
+---. 2011. _Apprenticeship in Critical Ethnographic Practice. The Lewis Henry Morgan Lectures 1993._ Chicago: University of Chicago Press.
 
-Wenger, Étienne, und Beverly Wenger-Trayner. 2020. *Learning to Make a Difference: Value Creation in Social Learning Spaces.* 1. Aufl. Cambridge University Press. h[ttps://doi.org/10.1017/9781108677431](ttps://doi.org/10.1017/9781108677431).
+Wenger, Étienne, und Beverly Wenger-Trayner. 2020. _Learning to Make a Difference: Value Creation in Social Learning Spaces._ 1. Aufl. Cambridge University Press. h<ttps://doi.org/10.1017/9781108677431>.
