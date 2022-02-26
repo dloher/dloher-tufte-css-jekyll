@@ -3,6 +3,7 @@ layout: page
 title: Publications
 subtitle: List of Publications
 weight: 3
+last_modified_at: 2022-02-26
 ---
 
 {%newthought 'Affolter, Laura,'%} David Loher, and Isabelle Zinn eds. 2021. {%marginnote 'tsantsa26' '[https://www.tsantsa.ch](https://www.bop.unibe.ch/tsantsa){:target="_blank"}' %} Dis/connection Matters: Natural, Synthetic, Digital. *TSANTSA.* 26.

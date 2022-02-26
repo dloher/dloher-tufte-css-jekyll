@@ -3,6 +3,7 @@ layout: page
 title: Talks
 subtitle: Selection of Talks and Presentations
 weight: 4
+last_modified_at: 2022-02-26
 ---
 
 {% newthought 'Labour as Future-Making.' %} {% marginnote 'easa2020' '[2020 EASA Conference Lisbon](https://easaonline.org/conferences/easa2020/panels#8631){:target="_blank"}' %} Asbestos Production, Social Struggles, and the Contested Meanings of a Sustainable Future. *Presentation at the 16th EASA Biennial Conference "New Anthropological Horizons in and Between Europe." 24 July 2020 (online).*
