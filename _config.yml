@@ -4,9 +4,12 @@ title: David Loher PhD
 # Whether the header (with large title and subtitle) should be displayed
 header: true
 subtitle: Social Anthropologist
+tagline: David Loher, social anthropologist and specialist in higher education development. 
+description: Professional website of David Loher, a Switzerland-based social anthropologist and specialist in higher eduaction development.
 author: David Loher
 email: david.loher [at] posteo [dot] org
-description: A Jekyll theme based on tufte-css
+twitter:
+  username: dloher
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 highlighter: rouge
