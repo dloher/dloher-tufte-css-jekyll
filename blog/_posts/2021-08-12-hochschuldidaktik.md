@@ -4,6 +4,10 @@ title: "Kompetenzen statt Tools: Überlegungen zur «Vision Masterstudiengang So
 subtitle: "Digitales Handout"
 excerpt: "Auf der Grundlage der Erkenntnisse aus der kompetenzorientierten Hochschullehre und John Hatties Untersuchungen zu den Einflussfaktoren für effektives Lernen plädiere ich dafür, die Auswahl der Werkzeuge – der Lehr-/ Lernformen, von Präsenz- und Onlineformaten, sowie der digitalen und analogen Tools – von den Learning Outcomes her zu denken im Sinne eines Constructive Alignments, ohne jedoch auf einen umfassenden Bildungsbegriff zu verzichten ..."
 date: 2021-08-12
+keywords:
+  - hochschuldidaktik
+  - constructive alignment
+  - bildung
 category: posts
 language: de-CH
 ---

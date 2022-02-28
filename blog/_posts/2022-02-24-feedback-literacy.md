@@ -4,6 +4,11 @@ title: "Feedback Literacy fördern durch Screencast-Feedbacks"
 subtitle:
 excerpt: "Screencast Feedbacks fördern die Feedback Literacy von Student:innen im Unterricht, unterstützen einen ganzheitlicheren Blick auf studentische Texte und fördern insbesondere unter den Bedingungen des Fernunterrichts das Zugehörigkeitsgefühl zu einer Lerngruppe, wie eine kürzlich veröffentlichte Studie zeigt..."
 date: 2022-02-24
+keywords:
+  - feedback
+  - lernen
+  - peer-feedback
+  - feedback literacy
 category: posts
 language: de-CH
 ---

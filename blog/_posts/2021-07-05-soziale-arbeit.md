@@ -4,6 +4,11 @@ title: "Methodisches Handeln in der Sozialen Arbeit: Möglichkeiten und Grenzen"
 subtitle: "Begleitseite mit Zusatzmaterial zum Referat"
 excerpt: "Welche Einflussfaktoren ermöglichen und begrenzen methodisches Handeln in der Sozialen Arbeit? Ausgehend von dem dreifachen Auftrag und der internationalen Definition von Sozialer Arbeit, entwirft dieser Beitrag ein einfaches Modell, um ermöglichende und begrenzende Einflussfaktoren systematisch zu erfassen ..."
 date: 2021-07-05
+keywords:
+  - soziale arbeit
+  - hochschuldidaktik
+  - didaktik
+  - sozialwissenschaften
 category: posts
 language: de-CH
 ---
