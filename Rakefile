@@ -19,8 +19,8 @@ TIME = Time.now.strftime("%H:%M:%S")
 POST_TIME = DATE + ' ' + TIME
 
 # Directories
-POSTS = "_posts"
-DRAFTS = "_drafts"
+POSTS = "blog/_posts"
+DRAFTS = "blog/_drafts"
 
 # == Helpers ===================================================================
 
