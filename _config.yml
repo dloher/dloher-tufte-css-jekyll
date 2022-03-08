@@ -35,4 +35,4 @@ collections:
 #Plugins
 plugins:
   - jekyll-seo-tag
-  - jekyll-sitemap
+#  - jekyll-sitemap
