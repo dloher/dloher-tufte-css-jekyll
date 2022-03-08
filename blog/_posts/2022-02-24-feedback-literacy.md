@@ -13,7 +13,7 @@ category: posts
 language: de-CH
 ---
 
-{%marginnote 'reference' '_Dieser Text wurde erstmals veröffentlicht am 13. Januar 2022 auf dem Blog des [ZLLF](www.hslu.ch/zllf){:target="_blank"} der [HSLU](www.hslu.ch){:target="_blank"}: <https://blog.hslu.ch/blog/archives/8066>{:target="_blank"}_'%}
+{%marginnote 'reference' '_Dieser Text wurde erstmals veröffentlicht am 13. Januar 2022 auf dem Blog des [ZLLF](https://www.hslu.ch/zllf){:target="_blank"} der [HSLU](https://www.hslu.ch){:target="_blank"}: <https://blog.hslu.ch/blog/archives/8066>{:target="_blank"}_'%}
 
 Screencast Feedbacks fördern die Feedback Literacy von Student:innen im Unterricht, unterstützen einen ganzheitlicheren Blick auf studentische Texte und fördern insbesondere unter den Bedingungen des Fernunterrichts das Zugehörigkeitsgefühl zu einer Lerngruppe, wie eine kürzlich veröffentlichte Studie zeigt.
 
