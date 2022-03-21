@@ -13,7 +13,7 @@ last_modified_at: 2022-02-26
 ## Higher Education Development
 ### Since 2021
 {%marginnote 'hslu1' '[---HSLU Lucerne University of Applied Sciences and the Arts](https://www.hslu.ch/zllf){:target="_blank"}'%}
-Together with the lecturers, we develop teaching and learning further.
+As a specialist in higher education development, I am teaching different courses in the higher education development programme at the HSLU Lucerne University of Applied Sciences and the Arts. 
 
 ## Einführung in die Sozialanthropologie
 ### Fall Term 2020 -- Lecture
