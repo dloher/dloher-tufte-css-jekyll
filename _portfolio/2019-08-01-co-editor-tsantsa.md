@@ -1,7 +1,7 @@
 ---
 title: "TSANTSA: Digital Relaunch"
 date: 2019-08-01
-excerpt: "Since 2018, I am the co-editor of TSANTSA – Journal of the Swiss Anthropological Association SAA. Together with my two co-editors, I was responsible for the reorganisation and digitalisation of the editorial process ..."
+excerpt: "Since 2018, I am the co-editor of TSANTSA – Journal of the Swiss Anthropological Association SAA. Together with my two co-editors, I was responsible for the reorganisation and digitalisation of the editorial process."
 collection: portfolio
 permalink: /portfolio/2019-08-01-co-editor-tsantsa
 layout: portfolio_page

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-subtitle: David Loher PhD, Social Anthropologist
+subtitle: David Loher, Social Anthropologist PhD
 weight: 5
 last_modified_at: 2022-02-26
 ---
