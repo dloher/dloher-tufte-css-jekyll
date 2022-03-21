@@ -2,6 +2,14 @@
 layout: page
 title: About
 weight: 1
+keywords:
+  - social anthropology
+  - higher education development
+  - critical theory
+  - feedback
+  - ethnographic methods
+  - scientific writing
+
 ---
 
 {%marginfigure 'profile' 'assets/img/profile.png' 'As a social anthropologist, I am an expert in "deep hanging out" (Geertz 1998). Curious to know more about the social world, I consider iterative research designs as a productive way to leave space for the unexpected.
@@ -9,10 +17,9 @@ weight: 1
 <br>
 <br>[---Geertz, Clifford. 1998. "Deep Hanging Out." *The New York Review of Books,*](https://www.nybooks.com/articles/1998/10/22/deep-hanging-out/){:target="_blank"} 22 October 1998.' %}
 
-{%newthought 'I am a social anthropologist'%} based in Switzerland. As an anthropologist, I am interested in questions at the the intersections of legal anthropology, environmental anthropology, and the anthropology of the state. As a higher education development specialist, I am working on questions of public education. Intrigued by the idea of the university not only as a space for individual learning, but as a public and cultural institution,
- is interested in creating learning environments that
+{%newthought 'I am a social anthropologist'%} based in Switzerland. As an anthropologist, I am interested in questions at the the intersections of legal anthropology, environmental anthropology, and the anthropology of the state. As a higher education development specialist, I am working on questions of public education. Intrigued by the idea of the university not only as a space for individual learning, but as a public and cultural institution, I am interested in creating learning environments that foster critical thinking and collaboration, and preserve the idea of human freedom as a basic idea of pedagogy.
 
-{%newthought 'In 2016, I received'%} a PhD from the [University of Bern](https://www.anthro.unibe.ch){:target='blank'} with a research on so-called assisted voluntary return migration, tracing the transnational migration trajectories of Tunisian migrants between Tunisia and Switzerland. In my following project as a Post-doc researcher, I was working on the legacy of the asbestos industry in Northern Italy. Since 2021, I am a higher education development specialist at the [Lucerne University of Applied Sciences and the Arts HSLU](https://www.hslu.ch/zllf){:target='blank'}.
+{%newthought 'I received'%} my PhD in social anthropology from the [University of Bern](https://www.anthro.unibe.ch){:target='blank'} in 2016 with a research on so-called assisted voluntary return migration, tracing the transnational migration trajectories of Tunisian migrants between Tunisia and Switzerland. In my following project as a Post-doc researcher, I was working on the legacy of the asbestos industry in Northern Italy. Since 2021, I am a higher education development specialist at the [Lucerne University of Applied Sciences and the Arts HSLU](https://www.hslu.ch/zllf){:target='blank'}.
 
 {%newthought 'In addition to my'%} expertise in ethnographic research methods, mixed methods research designs, and my knowledge in anthropological theories, I have extensive teaching experience at universities and universities of applied sciences, and a background as an elementary school teacher.
 
