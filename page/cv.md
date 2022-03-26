@@ -4,18 +4,24 @@ title: CV
 subtitle: David Loher, Social Anthropologist PhD
 weight: 5
 last_modified_at: 2022-02-26
+keywords:
+  - social theory
+  - ethnographic research
+  - teaching
+  - scientific writing
+  - journalist
 ---
 
 ## Education
-{%newthought '---CAS in Higher Education' %}{% marginnote 'unibe2020' '2020 University of Bern' %}
+{%newthought 'CAS in Higher Education' %}{% marginnote 'unibe2020' '2020 University of Bern' %}
 
-{%newthought '---PhD in Social Anthropology' %}{% marginnote 'unibe2016' '2016 University of Bern' %}
+{%newthought 'PhD in Social Anthropology' %}{% marginnote 'unibe2016' '2016 University of Bern' %}
 
-{%newthought '---M.A. in Social Anthropology' %}{% marginnote 'unibe2010' '2010 University of Bern' %} *Major in Anthropology of Transnationalism and the State, Minor in Philosophy*
+{%newthought 'M.A. in Social Anthropology' %}{% marginnote 'unibe2010' '2010 University of Bern' %} *Major in Anthropology of Transnationalism and the State, Minor in Philosophy*
 
-{%newthought '---B.A. in Social Anthropology' %}{% marginnote 'unibe2007' '2007 University of Bern' %} *Major in Social Anthropology, Minor in Philosophy*
+{%newthought 'B.A. in Social Anthropology' %}{% marginnote 'unibe2007' '2007 University of Bern' %} *Major in Social Anthropology, Minor in Philosophy*
 
-{%newthought '---Teaching Diploma' %} {% marginnote 'rorschach2002' '2002 University of Teacher Education Rorschach' %}
+{%newthought 'Teaching Diploma' %} {% marginnote 'rorschach2002' '2002 University of Teacher Education Rorschach' %}
 
 Before I was an academic, I was a teacher. Between 1996 and 2002, I studied at the University of Teacher Education in Rorschach. In 2003, a year after my graduation with a teaching diploma for elementary schools, I started my B.A. studies in social anthropology (major) and philosophy (minor) at the University of Bern. In 2007, I began my M.A. studies in social anthropology (major) and philosophy (minor) with an Erasmus study year at the Humboldt University Berlin and took additional courses in philosophy at the Freie Universität Berlin. In 2013 and 2014, during my fieldwork in Tunisia for my PhD studies (2012 - 2016), I was an affiliated researcher at the IRMC (Institut de Recherche sur le Maghreb Contemporain) in Tunis.
 

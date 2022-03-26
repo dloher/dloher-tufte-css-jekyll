@@ -4,6 +4,12 @@ title: Teaching
 subtitle: Teaching Experience
 weight: 2
 last_modified_at: 2022-02-26
+keywords:
+  - higher education
+  - ethnographic methods
+  - critical thinking
+  - social theory
+  - anthropological theories
 ---
 
 {% newthought 'I have years' %} of experience in teaching at higher education institutions – in universities and universities of applied sciences. In addition to my teaching experience in higher education, I have a background as a primary school teacher and completed a CAS in Higher Education. Due to the anthropologist's trained eye for social interactions and the awareness of the productive power of serendipity, I strive for educational settings that feature a high degree of face-to-face interaction and emphasise collaborative forms of learning, problem-solving, and discussion. I encourage my students to think beyond the course and to continue weaving their web of knowledge.
@@ -13,7 +19,7 @@ last_modified_at: 2022-02-26
 ## Higher Education Development
 ### Since 2021
 {%marginnote 'hslu1' '[---HSLU Lucerne University of Applied Sciences and the Arts](https://www.hslu.ch/zllf){:target="_blank"}'%}
-As a specialist in higher education development, I am teaching different courses in the higher education development programme at the HSLU Lucerne University of Applied Sciences and the Arts. 
+As a specialist in higher education development, I am teaching different courses in the higher education development programme at the HSLU Lucerne University of Applied Sciences and the Arts.
 
 ## Einführung in die Sozialanthropologie
 ### Fall Term 2020 -- Lecture

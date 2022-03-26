@@ -4,11 +4,20 @@ title: Talks
 subtitle: Selection of Talks and Presentations
 weight: 4
 last_modified_at: 2022-02-26
+keywords:
+  - presentations
+  - social anthropology
+  - research
+  - asbestos
+  - migration
+  - bureaucracy
+  - legal anthropology
+  - anthropology of the state
 ---
 
 {% newthought 'Labour as Future-Making.' %} {% marginnote 'easa2020' '[2020 EASA Conference Lisbon](https://easaonline.org/conferences/easa2020/panels#8631){:target="_blank"}' %} Asbestos Production, Social Struggles, and the Contested Meanings of a Sustainable Future. *Presentation at the 16th EASA Biennial Conference "New Anthropological Horizons in and Between Europe." 24 July 2020 (online).*
 
-{% newthought 'Asbestos Production,' %} Social Struggles, And the Contested Meanings of a Sustainable Future. *Presentation at the Institute Research Seminar. Institute of Social Anthropology, Univeristy of Bern. 18 May 2020 (online).*
+{% newthought 'Asbestos Production,' %} Social Struggles, And the Contested Meanings of a Sustainable Future. *Presentation at the Institute Research Seminar. Institute of Social Anthropology, University of Bern. 18 May 2020 (online).*
 
 {% newthought 'Leben im Lockdown.' %} {% marginnote 'palace2020' '[Erfreuliche Universität Palace im Digitall](https://www.palace.sg/index/event/xEvent/2012/js/no){:target="_blank"}' %} Gesellschaftliche Widersprüche und die Corona-Krise in Italien. *David Loher im Gespräch mit dem Sozialwissenschaftler Maurizio Coppola. Palace St. Gallen im Digitall. 14 April 2020 (online).*
 
