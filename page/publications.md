@@ -12,6 +12,8 @@ keywords:
   - editor
 ---
 
+{%newthought 'Affolter, Laura,'%} David Loher, and Isabelle Zinn eds. 2022. {%marginnote 'tsantsa27' '[https://www.tsantsa.ch](https://www.bop.unibe.ch/tsantsa){:target="_blank"}' %} Engaged Anthropology in and beyond Switzerland. *TSANTSA.* 26.
+
 {%newthought 'Affolter, Laura,'%} David Loher, and Isabelle Zinn eds. 2021. {%marginnote 'tsantsa26' '[https://www.tsantsa.ch](https://www.bop.unibe.ch/tsantsa){:target="_blank"}' %} Dis/connection Matters: Natural, Synthetic, Digital. *TSANTSA.* 26.
 
 {%newthought 'Loher, David.'%} 2020.{%marginnote 'everyday_suffering' '[10.3167/jla.2020.040202](https://doi.org/10.3167/jla.2020.040202)' %} "Everyday Suffering and the Abstract Time-Reckoning of Law. Reflections on the Allocation of Responsibility for an Asbestos Disaster in Italy.". *Journal of Legal Pluralism.* 4(2): 17-38
