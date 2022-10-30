@@ -2,7 +2,7 @@
 layout: post
 title: "This is a template title"
 subtitle:
-excerpt: "This is a template excerpt."
+excerpt: "This is a template excerpt." #Or leave it blank and use the <!--more--> tag in the main text.
 date: 2022-02-28
 keywords:
   - draft

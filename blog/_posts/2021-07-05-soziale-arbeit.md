@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Methodisches Handeln in der Sozialen Arbeit: Möglichkeiten und Grenzen"
+title: "Methodisches Handeln in der Sozialen Arbeit"
 subtitle: "Begleitseite mit Zusatzmaterial zum Referat"
 excerpt: "Welche Einflussfaktoren ermöglichen und begrenzen methodisches Handeln in der Sozialen Arbeit? Ausgehend von dem dreifachen Auftrag und der internationalen Definition von Sozialer Arbeit, entwirft dieser Beitrag ein einfaches Modell, um ermöglichende und begrenzende Einflussfaktoren systematisch zu erfassen."
 date: 2021-07-05
@@ -18,17 +18,17 @@ Methodisches Handeln{% marginfigure 'mf-toolbox' 'assets/img/toolbox.png' 'Profe
 ## Dreifacher Auftrag
 Die Sozialarbeitswissenschaften gehen heute oft von einem dreifachen Auftrag der Sozialen Arbeit aus (vgl. Staub-Bernasconi 2018). Als Ergänzung zum doppelten Auftrag von Individuum und Gesellschaft (oft ausgedrückt durch Hilfe versus Kontrolle) kommt ein dritter Auftrag hinzu, der sich aus dem Selbstverständnis der Sozialen Arbeit als Menschenrechtsprofession ergibt.{% sidenote 'sn-mandat' 'Zur Kritik bzw. den offenen Fragen an diesem dritten Aspekt des Trippelmandats, vgl. etwa die aktuelle Diskussion bei Aner und Scherr (2020)' %} Dieser dritte Auftrag gibt sich die Soziale Arbeit selber und ist die Konsequenz des eigenen Professionsverständnisses.
 
-{% newthought 'Der dreifache Auftrag'%} der Sozialen Arbeit wiederspiegelt sich auch in der Definition von Sozialer Arbeit der International Federation of Social Workers:{% marginnote 'mn-ifsw' 'Die 1956 gegründete IFSW ist der internationale Dachverband der Vereinigungen der Sozialarbeiter·innen und vertritt rund 120 Landesverbände.'%}
+{% newthought 'Der'%} dreifache Auftrag der Sozialen Arbeit widerspiegelt sich auch in der Definition von Sozialer Arbeit der International Federation of Social Workers:{% marginnote 'mn-ifsw' 'Die 1956 gegründete IFSW ist der internationale Dachverband der Vereinigungen der Sozialarbeiter·innen und vertritt rund 120 Landesverbände.'%}
 
 > Social work is a practice-based profession and an academic discipline that promotes social change and development, social cohesion, and the empowerment and liberation of people. Principles of social justice, human rights, collective responsibility and respect for diversities are central to social work.  Underpinned by theories of social work, social sciences, humanities and indigenous knowledges, social work engages people and structures to address life challenges and enhance wellbeing.
 <cite>[Global Definition of Social Work, IFSW](https://www.ifsw.org/what-is-social-work/global-definition-of-social-work/)</cite>
 
-{% newthought 'Nach dieser Definition' %} mobilisiert sozialarbeiterisches Handeln also Menschen und Strukturen, um herausfordernde Lebenssituationen und Chancen zu verbessern. Genau hier liegt auch der Schlüssel, um Möglichkeiten und Grenzen des methodischen Handelns in der Sozialen Arbeit genauer zu bestimmen.
+{% newthought 'Nach' %} dieser Definition mobilisiert sozialarbeiterisches Handeln also Menschen und Strukturen, um herausfordernde Lebenssituationen und Chancen zu verbessern. Genau hier liegt auch der Schlüssel, um Möglichkeiten und Grenzen des methodischen Handelns in der Sozialen Arbeit genauer zu bestimmen.
 
-## Akteur·innen, Institutionen, Strukturen
-Angelehnt an die globale Definition von Sozialer Arbeit lassen sich drei Gruppen von Einflussfaktoren unterscheiden, welche methodisches Handeln in der Sozialen Arbeit ermöglichen bzw. begrenzen: *Akteur·innen*, *Institutionen* und *Strukturen*.{% sidenote 'sn-spiegel1' 'vgl. dazu Spiegel (2006, 127-132) die in ihrem Modell eine etwas andere Unterscheidung trifft: Sie definiert die drei Einflussfaktoren «Gesellschaft und Politik», «Institution» und «sozialräumliches Umfeld».' %}
+## Akteur:innen, Institutionen, Strukturen
+Angelehnt an die globale Definition von Sozialer Arbeit lassen sich drei Gruppen von Einflussfaktoren unterscheiden, welche methodisches Handeln in der Sozialen Arbeit ermöglichen bzw. begrenzen: *Akteur:innen*, *Institutionen* und *Strukturen*.{% sidenote 'sn-spiegel1' 'vgl. dazu Spiegel (2006, 127-132) die in ihrem Modell eine etwas andere Unterscheidung trifft: Sie definiert die drei Einflussfaktoren «Gesellschaft und Politik», «Institution» und «sozialräumliches Umfeld».' %}
 
-{% newthought 'Akteur·innen' %} gehören zur ersten Gruppe von Einflussfaktoren. In diese Gruppe fallen nicht nur jene Akteur·innen, welche zum unmittelbaren Praxisfeld gehören, in dem sozialarbeiterisches Handeln stattfindet, sondern auch alle anderen Akteur·innen, die in irgend einer Weise auf ein spezifisches Praxisfeld ihren Einfluss haben.
+{% newthought 'Akteur:innen' %} gehören zur ersten Gruppe von Einflussfaktoren. In diese Gruppe fallen nicht nur jene Akteur·innen, welche zum unmittelbaren Praxisfeld gehören, in dem sozialarbeiterisches Handeln stattfindet, sondern auch alle anderen Akteur·innen, die in irgend einer Weise auf ein spezifisches Praxisfeld ihren Einfluss haben.
 
 {% newthought 'Institutionen' %} als zweite Gruppe von Einflussfaktoren sind analog zu den Akteur·innen zu verstehen: Sie können einerseits Teil des Praxisfeldes im engeren Sinn sein, aber auch weiter aussen liegen und trotzdem ihren Einfluss haben.
 
@@ -42,14 +42,14 @@ Um die Einflussfaktoren systematisch zu erfassen, hilft es, drei Ebenen zu unter
 Einflussfaktoren und Analyseebenen lassen sich zu einem einfachen Modell zusammenfügen, welches erlaubt, Möglichkeiten und Grenzen des methodischen Handelns in einer spezifischen Situation systematisch zu erfassen:
 
 {% maincolumn 'assets/img/modell.png' 'Einfaches Modell zum Erfassen der beschränkenden und ermöglichenden Einflussfaktoren auf methodisches Handeln.'%}
-Die vertikale Achse weist in diesem Modell die Analyseebenen des sozialen Raums aus, auf der horizontalen Achse sind auf der rechten Seite ermöglichende Faktoren zu finden, auf der linken Seite die begrenzenden Faktoren. Das Schema erlaubt nun, die Einflussfaktoren «Akteur·innen», «Strukturen» und «Institutionen» einer spezifischen Situation systematisch zu erfassen und darzustellen nach ihrem ermöglichenden und beschränkendem Einfluss, sowie ihrer Verortung im sozialen Raum.
+Die vertikale Achse weist in diesem Modell die Analyseebenen des sozialen Raums aus, auf der horizontalen Achse sind auf der rechten Seite ermöglichende Faktoren zu finden, auf der linken Seite die begrenzenden Faktoren. Das Schema erlaubt nun, die Einflussfaktoren «Akteur:innen», «Strukturen» und «Institutionen» einer spezifischen Situation systematisch zu erfassen und darzustellen nach ihrem ermöglichenden und beschränkendem Einfluss, sowie ihrer Verortung im sozialen Raum.
 
 ## Fallbeispiel: «I, Daniel Blake»
 Der Film «I, Daniel Blake»{% marginnote 'mn-blake' '[Für mehr Informationen zum Film, vgl. etwa Girish Shambus ausführliche Filmkritik auf Criterion.](https://www.criterion.com/current/posts/5277-i-daniel-blake-an-authentic-cinema)' %} von Ken Loach zeigt, wie soziale Arbeit scheitert, wenn die begrenzenden Einflussfaktoren überhand nehmen und damit jegliches methodisches Handeln verunmöglichen.
 
-{% newthought 'Daniel Blake' %}, ein 59-jähriger Zimmermann, ist die Hauptfigur des Films. Er hat kürzlich einen Herzinfarkt erlitten und kann nicht mehr auf seinem erlernten Beruf arbeiten. Angewiesen auf eine Überbrückungshilfe, fällt er zwischen Stuhl und Bank von Arbeitslosenunterstützung und Invalidenversicherung, weil er auf ärztliche Verordnung hin nicht arbeiten darf, gleichzeitig zu gesund ist, um Invalidenversicherungsleistungen beziehen zu können.
+{% newthought 'Daniel' %} Blake, ein 59-jähriger Zimmermann, ist die Hauptfigur des Films. Er hat kürzlich einen Herzinfarkt erlitten und kann nicht mehr auf seinem erlernten Beruf arbeiten. Angewiesen auf eine Überbrückungshilfe, fällt er zwischen Stuhl und Bank von Arbeitslosenunterstützung und Invalidenversicherung, weil er auf ärztliche Verordnung hin nicht arbeiten darf, gleichzeitig zu gesund ist, um Invalidenversicherungsleistungen beziehen zu können.
 
-{% newthought 'Ken Loach' %} zeigt im Film, wie Soziale Arbeit scheitert, wenn sie durch die gesetzlichen und institutionellen Rahmenbedingungen reduziert wird auf das korrekte Ausfüllen von Formularen und das strikte Befolgen von "wenn-dann Bedingungen" ohne Interpretationsspielraum.
+{% newthought 'Ken' %} Loach zeigt im Film, wie Soziale Arbeit scheitert, wenn sie durch die gesetzlichen und institutionellen Rahmenbedingungen reduziert wird auf das korrekte Ausfüllen von Formularen und das strikte Befolgen von "wenn-dann Bedingungen" ohne Interpretationsspielraum.
 
 {% newthought 'Gleichzeitig' %} erzählt der Film auch eine zweite, hoffnungsvollere Geschichte. Gibbs und Lethonen (2019) weisen in ihrer feministischen Lesart darauf hin: Der Film ist ebenfalls die Geschichte eines dichten Netzwerks an Solidarität und gegenseitiger Nachbarschaftshilfe der marginalisierten Figuren. Es wird eine Art *Grassroot Social Work* entworfen, bei der die Akteur·innen alle erdenklichen ermöglichenden Einflussfaktoren mobilisieren, damit Soziale Arbeit gelingt. Obwohl nicht in einem professionellen Setting stattfindend, ist es ein Handeln, das weit methodischer ist, weil es versucht, begrenzende Einflussfaktoren zu minimieren und ermöglichende Faktoren zu mobilisieren für seine Zwecke.
 {% maincolumn 'assets/img/danielblake.jpg' 'Film Still aus «I, Daniel Blake» von Ken Loach (2016). <br> *source: PROKINO*' %}

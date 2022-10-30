@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Kompetenzen statt Tools: Überlegungen zur «Vision Masterstudiengang Soziale Arbeit 2025»"
-subtitle: "Digitales Handout"
-excerpt: "Auf der Grundlage der Erkenntnisse aus der kompetenzorientierten Hochschullehre und John Hatties Untersuchungen zu den Einflussfaktoren für effektives Lernen plädiere ich dafür, die Auswahl der Werkzeuge – der Lehr-/ Lernformen, von Präsenz- und Onlineformaten, sowie der digitalen und analogen Tools – von den Learning Outcomes her zu denken im Sinne eines Constructive Alignments, ohne jedoch auf einen umfassenden Bildungsbegriff zu verzichten."
+title: "Kompetenzen statt Tools"
+subtitle: "Überlegungen zur «Vision Masterstudiengang Soziale Arbeit 2025»"
+excerpt: "Die letzten 18 Monate waren ein Experimentierfeld für neue Lehr- und Lernformate, insbesondere in Bezug auf Distance Learning und Online-Tools. Was bis heute weitgehend gefehlt hat, ist eine vertiefte Reflexion der Lehre."
 date: 2021-08-12
 keywords:
   - hochschuldidaktik
@@ -13,13 +13,14 @@ language: de-CH
 ---
 
 Die letzten 18 Monate waren ein Experimentierfeld für neue Lehr- und Lernformate, insbesondere in Bezug auf Distance Learning und Online-Tools. Der Modus des «Emergency Remote Teaching» (Hodges 2020) hat jedoch kaum Zeit gelassen für eine vertiefte Analyse und Reflexion der Lehre und der gemachten Erfahrungen, sowie für die Diskussion, welche Schlüsse wir aus diesen Erfahrungen ziehen.
-Dieser Beitrag skizziert einen konzeptionellen Rahmen, wie sich *aus einer Perspektive des Lernens* die Erfahrungen der vergangenen Monate reflektieren und einordnen lassen um daraus eine «Vision Masterstudiengang 2025» zu entwerfen. Statt vorschnell von den Werkzeugen her zu denken und die Frage *digital versus analog* beziehungsweise *Remote versus Präsenz* ins Zentrum zu stellen, sind die folgenden Überlegungen eine Einladung, die Weiterentwicklung des Masterstudiengangs vom Lernen her zu denken um erst daraus die Frage abzuleiten, welches die geeigneten -- digitalen und analogen -- Werkzeuge sind um Lernen im Masterstudiengang Soziale Arbeit erfolgreich(er) zu gestalten.
+
+{%newthought "Dieser"%} Beitrag skizziert einen konzeptionellen Rahmen, wie sich *aus einer Perspektive des Lernens* die Erfahrungen der vergangenen Monate reflektieren und einordnen lassen um daraus eine «Vision Masterstudiengang 2025» zu entwerfen. Statt vorschnell von den Werkzeugen her zu denken und die Frage *digital versus analog* beziehungsweise *Remote versus Präsenz* ins Zentrum zu stellen, sind die folgenden Überlegungen eine Einladung, die Weiterentwicklung des Masterstudiengangs vom Lernen her zu denken um erst daraus die Frage abzuleiten, welches die geeigneten -- digitalen und analogen -- Werkzeuge sind um Lernen im Masterstudiengang Soziale Arbeit erfolgreich(er) zu gestalten.
 
 ## Kompetenzorientierte Hochschullehre
 
 Kompetenzorientierung ist eines der zentralen Paradigmata in der Hochschullehre. Der Begriff verweist auf einen Perspektivenwechsel: weg von einer Orientierung an den Inhalten bzw. dem Input hin zu einer Orientierung am Output, der mess- und beobachtbar ist. Der Fokus liegt mit anderen Worten auf der Frage, was Student·innen am Schluss eines Kurses, Moduls oder des gesamten Studiums können müssen.
 
-{% newthought 'Der Kerngedanke' %} des kompetenzorientierten Unterrichts lässt sich in drei Punkten zusammenfassen: **Erstens** schliesst kompetenzorientierter Unterricht an das Vorwissen der Student·innen an. **Zweitens** macht kompetenzorientierter Unterricht zu Beginn (einer Unterrichtseinheit, eines Kurses, eines Moduls oder eines Studiengangs) explizit, was die Student·innen am Schluss können müssen. **Drittens** orientiert sich kompetenzorientierter Unterricht am Prinzip des *constructive alignments* (vgl. Biggs 1996). Dies bedeutet, dass nicht nur Lehr- und Lernformate, sondern auch das Assessment von den Learning Outcomes gesteuert wird.
+{% newthought 'Kerngedanke' %} des kompetenzorientierten Unterrichts lässt sich in drei Punkten zusammenfassen: **Erstens** schliesst kompetenzorientierter Unterricht an das Vorwissen der Student·innen an. **Zweitens** macht kompetenzorientierter Unterricht zu Beginn (einer Unterrichtseinheit, eines Kurses, eines Moduls oder eines Studiengangs) explizit, was die Student·innen am Schluss können müssen. **Drittens** orientiert sich kompetenzorientierter Unterricht am Prinzip des *constructive alignments* (vgl. Biggs 1996). Dies bedeutet, dass nicht nur Lehr- und Lernformate, sondern auch das Assessment von den Learning Outcomes gesteuert wird.
 {% maincolumn 'assets/img/constralign.png' 'Nach dem Prinzip des Constructive Alignment sind Learning Outcomes, Lehr-/ Lernformate und Assessment aufeinander abgestimmt.' %}
 
 {% newthought 'Kompetenzorientierter' %} Unterricht soll dabei nicht als Dogma verstanden werden, sondern als Werkzeug und Hilfsmittel für das Konzipieren eines kohärenten und wirkungsvollen Unterrichts. Für eine umfassende Beschreibung von Lehren und Lernen ist der Kompetenzbegriff hingegen unzureichend, da er einen zu engen funktional-pragmatischen Fokus hat.{% marginnote 'kompetenzkritik' 'Für Reichenbach (2012) hat der Kompetenzbegriff mehr eine bildungspolitische Bedeutung, denn einen tieferen analytischen Wert. Er kritisiert, dass der Begrifff wahlweise funktional-pragmatisch reduziert wird oder dann theoretisch überfrachtet und damit unspezifisch wird. ' %}
@@ -32,7 +33,7 @@ Welche Faktoren haben einen besonders grossen Effekt auf das Lernen? John Hattie
 
 {% newthought 'Ergänzend' %} lässt sich dieser Aufzählung ein weiterer Faktor hinzufügen: kontinuierliches Feedback zum Lernprozess (vgl. Hattie und Timperley 2007). (Regelmässige) formative und (ausgewählte) summative Feedbacks geben den Student·innen Auskunft über den eigenen Lernprozess. Gleichzeitig ist es auch eine wichtige Rückmeldung an die Dozent·in zur Steuerung und Justierung des Lehr- und Lernprozesses.
 
-{% newthought 'Anzumerken bleibt,' %}{% marginnote 'hattiekritik' 'Ein zentraler Kritikpunkt an den Visible Learning Studien ist, dass ihnen eine Theorie der Evaluation zugrunde liegt, welche jegliche Idee von Bildung ignoriert (vgl. Rømer 2019). Dazu kommen Einwände in Bezug auf die eingesetzten statistischen Verfahren (vgl. Bergeron 2017).' %} dass sich die Untersuchungen von Visible Learning auf die messbaren kognitiven Faktoren beschränkt und weitere, nicht-messbare, affektive und soziale Faktoren von Lernen und Lehren ausblendet. Zudem fehlt eine Gewichtung der einzelnen Faktoren.
+{% newthought 'Anzumerken' %} bleibt,{% marginnote 'hattiekritik' 'Ein zentraler Kritikpunkt an den Visible Learning Studien ist, dass ihnen eine Theorie der Evaluation zugrunde liegt, welche jegliche Idee von Bildung ignoriert (vgl. Rømer 2019). Dazu kommen Einwände in Bezug auf die eingesetzten statistischen Verfahren (vgl. Bergeron 2017).' %} dass sich die Untersuchungen von Visible Learning auf die messbaren kognitiven Faktoren beschränkt und weitere, nicht-messbare, affektive und soziale Faktoren von Lernen und Lehren ausblendet. Zudem fehlt eine Gewichtung der einzelnen Faktoren.
 
 ## Fazit: Merkmale guter Hochschullehre
 

@@ -33,9 +33,10 @@ If you are new to Jekyll, check out the [Jekyll documentation](https://jekyllrb.
 In order to build and test the site with Jekyll's own tools, go the the root folder of the project on the command line and do
 
 ```
-jekyll build
-jekyll serve -w
+bundle exec jekyll build
+bundle exec jekyll serve -w
 ```
+In order to build and test the site including draft blog posts, include the --drafts command. 
 
 Navigate to the link provided by the Jekyll CLI and you will see the newly built page.
 

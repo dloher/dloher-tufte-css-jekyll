@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Feedback Literacy fördern durch Screencast-Feedbacks"
-subtitle:
-excerpt: "Screencast Feedbacks fördern die Feedback Literacy von Student:innen im Unterricht, unterstützen einen ganzheitlicheren Blick auf studentische Texte und fördern insbesondere unter den Bedingungen des Fernunterrichts das Zugehörigkeitsgefühl zu einer Lerngruppe, wie eine kürzlich veröffentlichte Studie zeigt."
+subitle: 
 date: 2022-02-24
 keywords:
   - feedback
@@ -15,7 +14,7 @@ language: de-CH
 
 {%marginnote 'reference' '[Dieser Text wurde erstmals veröffentlicht am 13. Januar 2022 auf dem Blog des Zentrums für Lernen, Lehren und Forschen der Hochschule Luzern](https://blog.hslu.ch/blog/archives/8066){:target="_blank"}'%}
 
-Screencast Feedbacks fördern die Feedback Literacy von Student:innen im Unterricht, unterstützen einen ganzheitlicheren Blick auf studentische Texte und fördern insbesondere unter den Bedingungen des Fernunterrichts das Zugehörigkeitsgefühl zu einer Lerngruppe, wie eine kürzlich veröffentlichte Studie zeigt.
+Screencast Feedbacks fördern die Feedback Literacy von Student:innen im Unterricht, unterstützen einen ganzheitlicheren Blick auf studentische Texte und fördern insbesondere unter den Bedingungen des Fernunterrichts das Zugehörigkeitsgefühl zu einer Lerngruppe, wie eine kürzlich veröffentlichte Studie zeigt.<!--more-->
 
 {%newthought 'Welche Faktoren'%} unterstützen Lernen am effektivsten? Eine der Standardantworten ist: Feedbacks. Insbesondere die Studien von John Hattie (e.g. Hattie 2009; 2011; 2015)
 {% marginnote 'hattie1' 'Hattie, John. 2009. *Visible learning: a synthesis of over 800 meta-analyses relating to achievement*. London, New York: Routledge.

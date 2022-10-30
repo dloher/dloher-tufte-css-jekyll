@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lernen, ein kollektives Abenteuer"
-subtitle: "Anmerkungen zur gesellschaftlichen Dimension des Lernens und Lehrens"
+subtitle: 
 excerpt: "Die Hochschuldidaktik fokussiert oft einseitig auf individuelle Lernprozesse. Dabei geht nur zu schnell die gesellschaftliche Dimension vergessen. Bildungsinstitutionen sind jedoch nicht nur (individuelle) Lernorte."
 date: 2022-02-15
 keywords:

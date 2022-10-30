@@ -2,6 +2,9 @@
 layout: default
 ---
 <h1>{{ page.title }}</h1>
-<p class="subtitle">{{ page.date | date: "%d %B %Y" }}</p>
+<h2>{{ page.subtitle }}</h2>
+<!--<p class="subtitle">{{ page.subtitle}}</p>-->
+<p class="smaller">{{ page.date | date: "%d %B %Y" }}</p>
+<!--<p class="subtitle">{{ page.date | date: "%d %B %Y" }}</p> Original layout is date with class subtitle-->
 
 {{ content }}
