@@ -2,6 +2,7 @@
 layout: post
 title: "Anmerkungen zum Doppelcharakter der Hochschuldidaktik"
 subtitle: 
+excerpt: "Die 50. Jahrestagung der Deutschen Gesellschaft für Hochschuldidaktik DGHD stand unter dem Titel «Transformationen. Perspektiven auf eine postdigitale Hochschullehre». Die verschiedenen Tagungsbeiträge haben das Leitmotiv der Transformation sowohl retrospektiv wie auch prospektiv gelesen und so ein Panorama der deutschsprachigen Hochschuldidaktik entworfen."
 date: 2022-10-17
 keywords:
   - higher education
@@ -10,7 +11,7 @@ category: posts
 language: de-CH
 ---
 
-Die 50. Jahrestagung der Deutschen Gesellschaft für Hochschuldidaktik DGHD stand unter dem Titel [Transformationen. Perspektiven auf eine postdigitale Hochschullehre](https://www.dghd22.de){:target="_blank"}.{%marginnote 'reference' '[Dieser Text wurde erstmals veröffentlicht am 16. September 2022 auf dem Blog des Zentrums für Lernen, Lehren und Forschen der Hochschule Luzern](https://blog.hslu.ch/blog/archives/8654){:target="_blank"}'%}  Die verschiedenen Tagungsbeiträge haben das Leitmotiv der Transformation sowohl retrospektiv wie auch prospektiv gelesen und so ein Panorama der deutschsprachigen Hochschuldidaktik entworfen.<!--more-->
+Die 50. Jahrestagung der Deutschen Gesellschaft für Hochschuldidaktik DGHD stand unter dem Titel [Transformationen. Perspektiven auf eine postdigitale Hochschullehre](https://www.dghd22.de){:target="_blank"}.{%marginnote 'reference' '[Dieser Text wurde erstmals veröffentlicht am 16. September 2022 auf dem Blog des Zentrums für Lernen, Lehren und Forschen der Hochschule Luzern](https://blog.hslu.ch/blog/archives/8654){:target="_blank"}'%}  Die verschiedenen Tagungsbeiträge haben das Leitmotiv der Transformation sowohl retrospektiv wie auch prospektiv gelesen und so ein Panorama der deutschsprachigen Hochschuldidaktik entworfen.
 
 ## Blick zurück nach vorn 
 
