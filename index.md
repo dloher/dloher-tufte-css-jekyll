@@ -12,10 +12,8 @@ keywords:
 
 ---
 
-{%marginfigure 'profile' 'assets/img/profile.png' 'As a social anthropologist, I am an expert in "deep hanging out" (Geertz 1998). Curious to know more about the social world, I consider iterative research designs as a productive way to leave space for the unexpected.
-<br>Others call it the principle of serendipity.
-<br>
-<br>[---Geertz, Clifford. 1998. "Deep Hanging Out." *The New York Review of Books,*](https://www.nybooks.com/articles/1998/10/22/deep-hanging-out/){:target="_blank"} 22 October 1998.' %}
+{%marginfigure 'profile' 'assets/img/profile.png' 'As a social anthropologist, I am an expert in "deep hanging out" (Rosaldo). Curious to know more about the social world, I consider iterative research designs as a productive way to leave space for the unexpected.
+<br>Others call it the principle of serendipity.'%}
 
 {%newthought 'I'%} am a social anthropologist and a specialist in higher education development based in Switzerland. As an anthropologist, I am interested in questions at the intersections of legal anthropology, environmental anthropology, and the anthropology of the state. As a higher education development specialist, I am working on questions of public education. Intrigued by the idea of the university not only as a space for individual learning, but as a public and cultural institution, I am interested in creating learning environments that foster critical thinking and collaboration, and hold dear the idea of human freedom as a basic idea of pedagogy.
 
