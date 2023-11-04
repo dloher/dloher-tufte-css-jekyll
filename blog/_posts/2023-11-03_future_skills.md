@@ -7,11 +7,7 @@ keywords:
   - higher education
 category: posts
 language: de-CH
----
-
-{%marginnote 'mnote1' 'This is an example of a marginnote. It takes this form'%}
-
-{%newthought 'A new'%} paragraph might start with a capitalisation of the first couple of words.
+...
 
 {%newthought 'Das erste'%} Viertel des 21. Jahrhundert ist gleich um. Und noch immer dient das Schlagwort 21st Century Skills – wahlweise auch Future Skills – als Wegweiser für Bildungsreformen, Curriculumsentwicklungen oder als Pauschalkritik an vermeintlich überholten Bildungsidealen. 
 Dabei führt dieser Wegweiser für die Bildung der Zukunft auf direktem Weg zurück in die Vergangenheit. <!--more-->
