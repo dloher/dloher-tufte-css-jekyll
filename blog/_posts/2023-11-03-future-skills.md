@@ -2,7 +2,8 @@
 layout: post
 title: "Vorwärts direkt in die Vergangenheit: das Konzept der 21st Century Skills"
 author: "David Loher"
-date: 2023-10-03
+excerpt: "Das erste Viertel des 21. Jahrhundert ist gleich um. Und noch immer dient das Schlagwort 21st Century Skills – wahlweise auch Future Skills – als Wegweiser für Bildungsreformen, Curriculumsentwicklungen oder als Pauschalkritik an vermeintlich überholten Bildungsidealen. Dabei führt dieser Wegweiser für die Bildung der Zukunft auf direktem Weg zurück in die Vergangenheit."
+date: 2023-11-03
 keywords:
   - higher education
 category: posts
@@ -10,7 +11,7 @@ language: de-CH
 ...
 
 {%newthought 'Das erste'%} Viertel des 21. Jahrhundert ist gleich um. Und noch immer dient das Schlagwort 21st Century Skills – wahlweise auch Future Skills – als Wegweiser für Bildungsreformen, Curriculumsentwicklungen oder als Pauschalkritik an vermeintlich überholten Bildungsidealen. 
-Dabei führt dieser Wegweiser für die Bildung der Zukunft auf direktem Weg zurück in die Vergangenheit. <!--more-->
+Dabei führt dieser Wegweiser für die Bildung der Zukunft auf direktem Weg zurück in die Vergangenheit. 
 
 ## Abgestanden und verstaubt
 
@@ -71,4 +72,3 @@ Dieser Befund ist jedoch keineswegs ein Plädoyer, den normativen Ballast abzuwe
 Es ist einzig der Hinweis, dass die Frage, welche Kompetenzen in Zukunft gefordert sein werden, eng verknüpft ist mit der Frage, welche Gesellschaft der Zukunft wir wollen.
 
 {%newthought 'Somit'%} ist die Auseinandersetzung erst richtig lanciert.
-
