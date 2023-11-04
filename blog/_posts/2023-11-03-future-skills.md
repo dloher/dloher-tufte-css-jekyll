@@ -11,7 +11,9 @@ category: posts
 language: de-CH
 ...
 
-{%newthought 'Das erste'%} Viertel des 21. Jahrhundert ist gleich um. Und noch immer dient das Schlagwort 21st Century Skills – wahlweise auch Future Skills – als Wegweiser für Bildungsreformen, Curriculumsentwicklungen oder als Pauschalkritik an vermeintlich überholten Bildungsidealen. 
+{%newthought 'Das erste'%} Viertel des 21. Jahrhundert ist gleich um. 
+{%sidenote 'snote1' 'Dieser Text wurde erstmals veröffentlicht am 29. August 2023 auf dem [Blog des Zentrums für Lernen, Lehren und Forschen der Hochschule Luzern.](https://blog.hslu.ch/blog/2023/08/29/vorwaerts-direkt-in-die-vergangenheit-das-konzept-der-21st-century-skills/){:target="_blank"}'%} 
+Und noch immer dient das Schlagwort 21st Century Skills – wahlweise auch Future Skills – als Wegweiser für Bildungsreformen, Curriculumsentwicklungen oder als Pauschalkritik an vermeintlich überholten Bildungsidealen. 
 Dabei führt dieser Wegweiser für die Bildung der Zukunft auf direktem Weg zurück in die Vergangenheit. 
 
 ## Abgestanden und verstaubt
@@ -31,8 +33,7 @@ Diese Organisation vereinte so gewichtige Unternehmen wie Intel, Ford, Fisher-Pr
 Via die OECD verbreitete sich die Idee jenseits der USA – unter anderem auch in Europa. 
 {%marginfigure 'mf-oecd-slide' 'assets/img/Folie_P21.jpg' 'Folie einer Präsentation der Partnership for 21st Century Skills, gehalten vor der OECD von Charles Fadel (Global Lead Education, Cisco Corporation). Paris, Mai 2008' %}
 
-{%newthought 'Dabei'%} verselbständigte sich die Idee und es entstanden eine Reihe von weiteren Initiativen und neuen, teilweise inkommensurablen Konzepten.
-{%sidenote 'snote1' 'Für eine Übersicht der verschiedenen Frameworks von 21st Century Skills, vgl. Dede, Chris. 2009. «Comparing Frameworks for 21st Century Skills». [Unpublished Manuscript.](https://sttechnology.pbworks.com/f/Dede_(2010)_Comparing%20Frameworks%20for%2021st%20Century%20Skills.pdf)'%}
+{%newthought 'Dabei'%} verselbständigte sich die Idee und es entstanden eine Reihe von weiteren Initiativen und neuen, teilweise inkommensurablen Konzepten.{%sidenote 'snote2' 'Für eine Übersicht der verschiedenen Frameworks von 21st Century Skills, vgl. Dede, Chris. 2009. «Comparing Frameworks for 21st Century Skills». [Unpublished Manuscript.](https://sttechnology.pbworks.com/f/Dede_(2010)_Comparing%20Frameworks%20for%2021st%20Century%20Skills.pdf){:target="_blank"}'%}
 
 ## Weitgehend bedeutungsleer
 
@@ -56,7 +57,7 @@ Das 21st Century Skills Konzept eignet sich für eine solche Kritik besonders gu
 
 Doch warum ist das überhaupt problematisch?
 
-Die fehlende Begriffsdefinition? 
+{%newthought 'Die fehlende'%} Begriffsdefinition? 
 Geschenkt.
 Ein überfrachtetes Konzept, das sich in Bedeutungsleere verkehrt? 
 Geschenkt.
