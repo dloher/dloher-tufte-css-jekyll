@@ -12,11 +12,17 @@ keywords:
   - editor
 ---
 
+{%newthought 'Loher, David.'%} 2022. *"Contestare la temporalità egemonica del capitale. Lotte anti-amianto dopo il disastro a Casale Monferrato".* In Il laboratorio oltre la metropoli, edited by Pusceddu, Antonio M., and Andrea F. Ravendra. 121–48. Florence: Editpress.
+
+{%newthought 'Affolter, Laura,'%} Matthieu Bolay,Filipe Calvão, Joana Menet, David Loher, and Isabelle Zinn eds. 2022. {%marginnote 'sjsca28b' '[https://journal-sa.ch](https://doi.org/10.36950/sjsca.2022.28.8923){:target="_blank"}' %} Anthropological Knowedge and Power Relations. *Swiss Journal of Sociocultural Anthropology.* 28.
+
+{%newthought 'Affolter, Laura,'%} Matthieu Bolay,Filipe Calvão, Joana Menet, David Loher, and Isabelle Zinn. 2022. "Editorial". {%marginnote 'sjsca28b' '[https://journal-sa.ch](https://journal-sa.ch/issue/view/1108){:target="_blank"}' %} *Swiss Journal of Sociocultural Anthropology.* 28: 5-8.
+
 {%newthought 'Affolter, Laura,'%} David Loher, and Isabelle Zinn eds. 2022. {%marginnote 'tsantsa27' '[https://www.tsantsa.ch](https://www.bop.unibe.ch/tsantsa){:target="_blank"}' %} Engaged Anthropology in and beyond Switzerland. *TSANTSA.* 27.
 
 {%newthought 'Affolter, Laura,'%} David Loher, and Isabelle Zinn eds. 2021. {%marginnote 'tsantsa26' '[https://www.tsantsa.ch](https://www.bop.unibe.ch/tsantsa){:target="_blank"}' %} Dis/connection Matters: Natural, Synthetic, Digital. *TSANTSA.* 26.
 
-{%newthought 'Loher, David.'%} 2020.{%marginnote 'everyday_suffering' '[10.3167/jla.2020.040202](https://doi.org/10.3167/jla.2020.040202)' %} "Everyday Suffering and the Abstract Time-Reckoning of Law. Reflections on the Allocation of Responsibility for an Asbestos Disaster in Italy.". *Journal of Legal Pluralism.* 4(2): 17-38
+{%newthought 'Loher, David.'%} 2020.{%marginnote 'everyday_suffering' '[10.3167/jla.2020.040202](https://doi.org/10.3167/jla.2020.040202)' %} "Everyday Suffering and the Abstract Time-Reckoning of Law. Reflections on the Allocation of Responsibility for an Asbestos Disaster in Italy". *Journal of Legal Pluralism.* 4(2): 17-38
 
 {%newthought 'Affolter, Laura,'%} David Loher, and Isabelle Zinn eds. 2020. {%marginnote 'tsantsa25' '[https://www.tsantsa.ch](https://www.bop.unibe.ch/tsantsa){:target="_blank"}' %} Penal Institutions and Their Hybridizations "in Action". *TSANTSA.* 25.
 
